@@ -3,7 +3,7 @@ apply plugin: 'jacoco'
 apply plugin: 'application'
 
 
-mainClassName = 'TugasPBO3.Project3_PBO'
+mainClassName = 'TugasPBO3.PBO10K10119918Latihan3MemasukkanNilaidariKeyboard'
 
 run{
     standardInput = System.in

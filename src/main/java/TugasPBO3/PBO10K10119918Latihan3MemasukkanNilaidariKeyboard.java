@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author andreas
  */
-public class Project3_PBO {
+public class PBO10K10119918Latihan3MemasukkanNilaidariKeyboard {
 
     /**
      * @param args the command line arguments
