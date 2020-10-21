@@ -9,7 +9,13 @@ import java.util.Scanner;
 
 /**
  *
- * @author andreas
+ * @author
+ * NAMA     : Andreas Suryadi
+ * KELAS    : PBO10K
+ * NIM      : 10119918
+ * Deskripsi Program : Program ini berisi program untuk mamasukkan nilai dari 
+ * keyboard dan menampilkannya
+ * 
  */
 public class PBO10K10119918Latihan3MemasukkanNilaidariKeyboard {
 
